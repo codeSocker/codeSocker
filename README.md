@@ -12,8 +12,6 @@ I'm a passionate software engineer with a keen interest in developing efficient 
 - 🤔 I’m looking for help with: Any community-driven projects or collaborations.
 - 💬 Ask me about: Java Spring Boot, MySQL, Azure, AWS, Corda R3, Node.js, React, Next.js, MongoDB.
 - 📫 How to reach me: codesocker@gmail.com
-- 😄 Pronouns: [Your pronouns]
-- ⚡ Fun fact: [An interesting fact about you]
 
 ## My Skills
 
@@ -33,9 +31,8 @@ Here are a few of my notable projects:
 
 ## Connect with Me
 
-- [LinkedIn](Your LinkedIn Profile Link)
-- [Twitter](Your Twitter Profile Link)
-- [Instagram](Your Instagram Profile Link)
+- [LinkedIn](https://www.linkedin.com/in/himanshu-doye/)
+- [Instagram](https://www.instagram.com/codesocker/?igshid=ODR5MmRkdmg4eGQ3)
 - [Email](mailto:codesocker@gmail.com)
 
 ## GitHub Stats
