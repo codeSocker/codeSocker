@@ -21,13 +21,7 @@ I'm a passionate software engineer with a keen interest in developing efficient 
 - **Databases:** MySQL, MongoDB
 - **Blockchain:** Corda R3
 
-## Projects
 
-Here are a few of my notable projects:
-
-1. [Project Name](Link to project) - [Brief description of the project]
-2. [Project Name](Link to project) - [Brief description of the project]
-3. [Project Name](Link to project) - [Brief description of the project]
 
 ## Connect with Me
 
