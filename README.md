@@ -1,5 +1,7 @@
 # Hi there, I'm codeSocker 👋
 
+<div style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
+
 Welcome to my GitHub profile!
 
 ## About Me
@@ -11,17 +13,17 @@ I'm a passionate software engineer with a keen interest in developing efficient 
 - 👯 I’m looking to collaborate on: Community-based projects.
 - 🤔 I’m looking for help with: Any community-driven projects or collaborations.
 - 💬 Ask me about: Java Spring Boot, MySQL, Azure, AWS, Corda R3, Node.js, React, Next.js, MongoDB.
-- 📫 How to reach me: codesocker@gmail.com
+- 📫 How to reach me: <a href="mailto:codesocker@gmail.com" style="color: #1e90ff;">codesocker@gmail.com</a>
 
 ## My Skills
 
+<div style="color: #ff6347;">
 - **Programming Languages:** Java, JavaScript, Node.js, SQL
 - **Frameworks & Libraries:** Spring Boot, React, Next.js
 - **Tools & Platforms:** Azure, AWS
 - **Databases:** MySQL, MongoDB
 - **Blockchain:** Corda R3
-
-
+</div>
 
 ## Connect with Me
 
@@ -41,3 +43,5 @@ I'm a passionate software engineer with a keen interest in developing efficient 
 <!-- BLOG-POST-LIST:END -->
 
 Thanks for visiting my profile! Feel free to reach out if you'd like to collaborate on any project or just want to connect.
+
+</div>
